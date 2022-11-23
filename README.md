@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on refining my scikit-learn skills with supervised machine learning pipelines.
+- 🤔 I’m looking for ideas for nice final project for my Data Science Bootcamp
+- 📫 How to reach me: liane.gybas-at-gmail.com
+- 😄 Pronouns: she
+- ⚡ Fun fact: I have owned 4 cargo bikes in my life
+
+
 <!--
 **lgybas/lgybas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
