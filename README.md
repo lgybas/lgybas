@@ -8,6 +8,8 @@ Hi this is me telling a bit about myself. It will lead you through my favorite p
 - 😄 Pronouns: she
 - ⚡ Fun fact: I have owned 4 cargo bikes in my life
 
+What I am working towards:
+"What is written is what is said is what is done."
 
 <!--
 **lgybas/lgybas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
