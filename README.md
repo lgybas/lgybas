@@ -3,7 +3,7 @@
 Hi this is me telling a bit about myself. It will lead you through my favorite projects.
 
 - 🔭 I’m currently working on refining my scikit-learn skills with supervised machine learning pipelines.
-- 🤔 I’m looking for ideas for a nice final project for my Data Science Bootcamp
+- 🤔 I’m looking for ideas to use sensory data with machine learning
 - 📫 How to reach me: liane.gybas-at-gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I have owned 4 cargo bikes in my life
