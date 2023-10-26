@@ -7,7 +7,7 @@ Hi this is me telling a bit about myself. It will lead you through my favorite p
 - 📫 How to reach me: liane.gybas-at-gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I have owned 4 cargo bikes in my life
-- ⭕ "`What is written` is `what is said` is `what is done`."
+- ⭕ My take on surviving chaos: "`What is written` is `what is said` is `what is done`."
 
 
 <!--
